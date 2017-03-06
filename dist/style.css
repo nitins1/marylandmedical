@@ -1,0 +1,358 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  color: #404040;
+  font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bolder;
+  padding: 3px 15px;
+  box-sizing: padding-box;
+  -webkit-transition: background-color .2s; /* Safari */
+  transition: background-color .2s;
+}
+
+.sidebar {
+  background-color: #EFEFEF;
+  position: absolute;
+  width: 33.3333%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  border-right: 1px solid rgb(216, 216, 216);
+}
+
+.heading {
+  background: #fff;
+  border-bottom: 1px solid #D8D8D8;
+  display: inline-block;
+  width: 100%;
+  padding: 20px 20px 20px;
+}
+
+.heading h1 {
+  font-size: 20px;
+  margin: 0;
+  font-weight: 600;
+  line-height: 20px;
+  padding-bottom: 10px;
+}
+
+.dropdown {
+}
+
+.dropdown p {
+  margin: 3px 0;
+  float: left;
+}
+
+.dropdown select {
+  margin: 5px 15px 0 5px ;
+  float: left;
+}
+
+.dropdown a {
+  background-color: #0D8108;
+  float: left;
+}
+
+.dropdown a:hover {
+  background-color: #085604;
+}
+
+.dropdown a:active {
+  background-color: #054203;
+}
+
+.flex-container {
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-item.email {
+  -webkit-flex:1 0 auto;
+}
+
+.flex-item.listings {
+  overflow-y: scroll;
+}
+
+.email {
+  background: #EAAB00;
+  border-top: 1px solid #D39A00;
+  display: inline-block;
+  width: 100%;
+  padding: 20px 20px 20px;
+}
+
+.email h3 {
+  display: inline-block;
+  float: left;
+  width: 80%;
+  color: white;
+  line-height: 1.2rem;
+  margin: 0;
+  background-color: ;
+  margin-bottom: 5px;
+}
+
+.email .close {
+  display: inline-block;
+  color: #AA7C00;
+  float: right;
+  border-radius: 15px;
+  font-size: 20px;
+  background-color: #D39A00;
+  padding: 5px 8px;
+  height: 100%;
+  text-align: right;
+  text-decoration: none;
+  -webkit-transition: background-color .2s; /* Safari */
+  transition: background-color .2s;
+}
+
+.email .close:hover {
+  color: #7C5B02;
+  /* background-color: #AA7C00; */
+}
+
+.email p {
+  width: 80%;
+  display: inline-block;
+  float: left;
+  color: white;
+  line-height: 1.2rem;
+  background-color: ;
+  margin: 0;
+}
+
+.email p a {
+  color: #981E32;
+  text-decoration: none;
+  -webkit-transition: background-color .2s; /* Safari */
+  transition: background-color .2s;
+}
+
+.email p a:hover {
+  color: #5D0E1B;
+}
+
+.email form {
+  width: 100%;
+  display: inline-block;
+  margin-top: 17px;
+}
+
+.email .emailField {
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 10px;
+}
+
+/* .email input[value^="Enter your email"] {color: #B5B5B5;} */
+
+.email .signup {
+  padding: 7px 15px;
+  background:#981E32;
+  color: white;
+  border:0 none;
+  cursor:pointer;
+}
+
+.email .signup:hover {
+  background-color: #6C1523;
+}
+
+.email .signup:active {
+  background-color: #4D0E19;
+}
+
+.listing a {
+  color: #404040;
+  text-decoration: none;
+}
+
+.listing a:hover {
+  color: #101010;
+}
+
+.map {
+  position: absolute;
+  left: 33.3333%;
+  width: 66.6666%;
+  top: 0;
+  bottom: 0;
+}
+
+.listings {
+  height: 100%;
+  overflow: auto;
+  padding-bottom: 49px;
+}
+
+.listings .item {
+  display: block;
+  border-bottom: 1px solid #D8D8D8;
+  padding: 15px 20px 30px;
+  text-decoration: none;
+  line-height: 1.1rem;
+}
+
+/* .listings .item:last-child { border-bottom: none; } */
+
+.listings .item .name {
+  text-decoration: none;
+  display: block;
+  color: #EAAB00;
+  font-weight: 700;
+  padding-bottom: 5px;
+}
+
+.listings .item .name small { font-weight: 400; }
+
+.listings .item.active .name,
+.listings .item .name:hover { color: #C59000; }
+
+.listings .item.active {
+  background-color: #f8f8f8;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+  border-left: 0;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-track {
+  background: none;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9e9e9e;
+  border-radius: 0;
+}
+
+.clearfix { display: block; }
+
+.clearfix::after {
+  content: '.';
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+  border-top: 1px solid #D8D8D8;
+  border-right: 1px solid #D8D8D8;
+  width: 33.3333%;
+  padding: 5px;
+}
+
+.footer a {
+  margin: 0 0 0 10px;
+  font-size: 10px;
+  text-decoration: none;
+  color: #0D8108;
+  -webkit-transition: background-color .2s; /* Safari */
+  transition: background-color .2s;
+}
+
+.footer a:hover {
+  color: #085604;
+}
+
+.footer a:active {
+  color: #054203;
+}
+
+/* Marker tweaks */
+.mapboxgl-popup-close-button {
+  /* display: none; */
+  margin-right: 10px;
+  margin-top: -2px;
+  border-radius: 20px;
+  color: #AA7C00;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 0px 6px 2px;
+  background-color: #D39A00;
+}
+
+.mapboxgl-popup-close-button:hover {
+  color: #7C5B02;
+  background-color: #D39A00;
+}
+
+.mapboxgl-popup-content {
+  font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+  padding: 0;
+  width: 180px;
+}
+
+.mapboxgl-popup-content-wrapper {
+  padding: 1%;
+}
+
+.mapboxgl-popup-content h3 {
+  background: #EAAB00;
+  color: #fff;
+  margin: 0;
+  display: block;
+  padding: 15px 30px 15px 10px;
+  border-radius: 3px 3px 0 0;
+  font-weight: 700;
+  margin-top: -15px;
+  line-height: 1.2rem;
+}
+
+.mapboxgl-popup-content h4 {
+  margin: 0;
+  display: block;
+  padding: 10px;
+  font-weight: 400;
+}
+
+.mapboxgl-popup-content div {
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.mapboxgl-container .leaflet-marker-icon {
+  cursor: pointer;
+}
+
+.mapboxgl-popup-anchor-top > .mapboxgl-popup-content {
+  margin-top: 15px;
+}
+
+.mapboxgl-popup-anchor-top > .mapboxgl-popup-tip {
+  border-bottom-color: #EAAB00;
+}
+
+.mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
+  border-right-color: #EAAB00;
+}
+
+.mapboxgl-popup-anchor-right .mapboxgl-popup-tip {
+  border-left-color: #EAAB00;
+}

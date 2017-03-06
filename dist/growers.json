@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.73365209999997, 39.4647665 ]
+    },
+      "properties": {
+        "name": "Grower 1",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Baltimore",
+        "district": 1,
+        "county" : "Baltimore",
+        "postalCode": "21209"
+      }
+    }
+  ]
+}

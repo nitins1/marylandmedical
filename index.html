@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>store-locator</title>
+    <!-- Mapbox -->
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.css' rel='stylesheet' />
+
+    <!-- <script type="text/javascript" src="sweetgreen.json"></script> -->
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+  </head>
+  <body>
+    <div class='sidebar flex-container'>
+
+      <div class='heading flex-item'>
+        <h1>Medical Marijuana in Maryland</h1>
+        <div class="dropdown">
+          <p>I'm looking for</p>
+          <select id="entity">
+            <option>Dispensaries</option>
+            <option>Growers</option>
+            <<option>Processors</option>
+            <option>Physicians</option>
+          </select>
+          <a class="button" href="#" onclick="loadData()">GO</a>
+        </div>
+      </div>
+
+      <div class="email flex-item" id="email">
+        <h3>Are you a patient in need of medical marijuana?</h3>
+        <a href="#" onclick="removeEmail();return false;loadData();" class="close" id="emailClose">&#10006;</a>
+        <p>Sign up to get notified when the <a href="">Patient Registry</a> is open.</p>
+        <form action="">
+          <input class="emailField" type="text" name="firstname" value="Enter your email">
+          <input class="signup button" type="submit" value="Sign Up">
+        </form>
+      </div>
+
+      <div class='listings flex-item' id='listings'></div>
+
+      <div class="footer">
+        <a href="http://madewithloveinbaltimore.org">Made with &hearts; in Baltimore</a>
+        <a href="#"> Legal </a>
+        <a href="#"> About </a>
+        <a href="#"> Contact </a>
+      </div>
+
+    </div>
+    <div id='map' class='map'></div>
+
+    <script>
+
+      var mapAccessToken = "pk.eyJ1Ijoibml0aW45MyIsImEiOiJjaXp3NjljNHQwMWoyMzNyMjd4NGNoYzZ4In0.Q8qaCHVZJQHkx4PJAX66DQ";
+      var styleURL = "mapbox://styles/nitin93/cizwwjad600362ss1tikopvp5";
+
+      function removeEmail() {
+        document.getElementById("email").remove();
+        //loadData();
+      }
+
+      mapboxgl.accessToken = `${mapAccessToken}`;
+      // This adds the map to your page
+      var map = new mapboxgl.Map({
+        // container id specified in the HTML
+        container: 'map',
+        // style URL
+        style: styleURL,
+        // initial position in [long, lat] format
+        center: [-76.6413, 39.0458],
+        // initial zoom
+        zoom: 6
+      });
+
+    </script>
+  </body>
+</html>
