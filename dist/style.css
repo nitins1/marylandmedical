@@ -46,9 +46,17 @@ body {
 .heading h1 {
   font-size: 20px;
   margin: 0;
-  font-weight: 600;
+  font-weight: 900;
   line-height: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 6px;
+}
+
+.heading h5 {
+  margin: 0;
+  font-size: 12px;
+  line-height: .8rem;
+  color: #9e9e9e;
+  padding-bottom: 20px;
 }
 
 .dropdown {
