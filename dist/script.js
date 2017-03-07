@@ -155,7 +155,3 @@ function loadData() {
   AJAX_JSON_Req(`${entity}.json`);
 
 }
-
-window.onload = function() {
-  loadData();
-};
