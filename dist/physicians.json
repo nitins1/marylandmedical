@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -75.5993692, 38.3606736 ]
+    },
+      "properties": {
+        "name": "Dispensary in Baltimore Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "",
+        "postalCode": "21502"
+      }
+    }
+  ]
+}

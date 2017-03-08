@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>store-locator</title>
+    <title>Maryland Medical</title>
     <!-- Mapbox -->
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.css' rel='stylesheet' />
@@ -54,13 +54,12 @@
 
     <script>
 
-      var mapAccessToken = "pk.eyJ1Ijoibml0aW45MyIsImEiOiJjaXp3NjljNHQwMWoyMzNyMjd4NGNoYzZ4In0.Q8qaCHVZJQHkx4PJAX66DQ";
-      var styleURL = "mapbox://styles/nitin93/cizwwjad600362ss1tikopvp5";
-
       function removeEmail() {
         document.getElementById("email").remove();
-        //loadData();
-      }
+      };
+
+      var mapAccessToken = "pk.eyJ1Ijoibml0aW45MyIsImEiOiJjaXp3NjljNHQwMWoyMzNyMjd4NGNoYzZ4In0.Q8qaCHVZJQHkx4PJAX66DQ";
+      var styleURL = "mapbox://styles/nitin93/cizwwjad600362ss1tikopvp5";
 
       mapboxgl.accessToken = `${mapAccessToken}`;
       // This adds the map to your page
@@ -78,7 +77,7 @@
       window.onload = function() {
         loadData();
       };
-      
+
     </script>
   </body>
 </html>

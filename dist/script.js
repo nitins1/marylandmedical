@@ -1,6 +1,6 @@
 jsonName = "dispensaries";
 
-var toggleableLayerIds = [ 'dispensaries', 'growers' ];
+var toggleableLayerIds = [ 'dispensaries', 'growers', 'processors', 'physicians' ];
 
 function flyToStore(currentEntity) {
   map.flyTo({
