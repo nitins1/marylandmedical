@@ -85,7 +85,6 @@ function AJAX_JSON_Req( url ) {
 
       map.on('load', function(e) {
 
-        //alert("hi");
         // Add an event listener for when a user clicks on the map
         map.on('click', function(e) {
           // Query all the rendered points in the view
@@ -152,6 +151,6 @@ function loadData() {
   });
 
   //runs a JSON request with the JSON file for the selected entity
-  AJAX_JSON_Req(`${entity}.json`);
+  AJAX_JSON_Req(`/dist/${entity}.json`);
 
 }
