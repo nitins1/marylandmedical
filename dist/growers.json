@@ -14,7 +14,9 @@
         "city": "Baltimore",
         "district": 1,
         "county" : "Baltimore",
-        "postalCode": "21209"
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
       }
     }
   ]

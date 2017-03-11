@@ -14,11 +14,22 @@ function createPopUp(currentEntity) {
   // Check if there is already a popup on the map and if so, remove it
   if (popUps[0]) popUps[0].remove();
 
-  var popup = new mapboxgl.Popup({ closeOnClick: false })
-    .setLngLat([currentEntity.geometry.coordinates[0], currentEntity.geometry.coordinates[1] + .0004])
-    .setHTML(`<h3>${currentEntity.properties.name}</h3>` +
-      '<h4>' + currentEntity.properties.address + '</h4>')
-    .addTo(map);
+  if (currentEntity.properties.facebook) {
+    var popup = new mapboxgl.Popup({ closeOnClick: false })
+      .setLngLat([currentEntity.geometry.coordinates[0], currentEntity.geometry.coordinates[1] + .0004])
+      .setHTML(`<h3>${currentEntity.properties.name}</h3>` +
+               `<h4>${currentEntity.properties.address}, ${currentEntity.properties.city} MD</h4>` +
+               `<p>${currentEntity.properties.phone} <a class="facebook" href="${currentEntity.properties.facebook}"><i class="fa fa-facebook-official" aria-hidden="true"></i></a><br>
+                <a class="website" href="${currentEntity.properties.website}">${currentEntity.properties.website}</a></p>`)
+      .addTo(map);
+  } else {
+    var popup = new mapboxgl.Popup({ closeOnClick: false })
+      .setLngLat([currentEntity.geometry.coordinates[0], currentEntity.geometry.coordinates[1] + .0004])
+      .setHTML(`<h3>${currentEntity.properties.name}</h3>` +
+               `<h4>${currentEntity.properties.address}, ${currentEntity.properties.city} MD</h4>` +
+               `<p>${currentEntity.properties.phone} <br><a class="website" href="${currentEntity.properties.website}">${currentEntity.properties.website}</a></p>`)
+      .addTo(map);
+  }
 }
 
 function buildLocationList(data) {

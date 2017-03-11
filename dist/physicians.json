@@ -14,7 +14,9 @@
         "city": "Cumberland",
         "district": 1,
         "county" : "",
-        "postalCode": "21502"
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
       }
     }
   ]
