@@ -32,6 +32,14 @@ function createPopUp(currentEntity) {
   }
 }
 
+function compareStrings(a, b) {
+  // Assuming you want case-insensitive comparison
+  a = a.toLowerCase();
+  b = b.toLowerCase();
+
+  return (a < b) ? -1 : (a > b) ? 1 : 0;
+};
+
 function buildLocationList(data) {
 
   // Iterate through the list of stores
@@ -60,7 +68,7 @@ function buildLocationList(data) {
     // Create a new div with the class 'details' for each store
     // and fill it with the city and phone number
     var details = listing.appendChild(document.createElement('div'));
-    details.innerHTML = prop.address;
+    details.innerHTML = prop.county;
     if (prop.phone) {
       details.innerHTML += ' &middot; ' + prop.phone;
     }

@@ -299,8 +299,8 @@ body {
   font-size: 10px;
   text-decoration: none;
   color: #0D8108;
-  -webkit-transition: background-color .2s; /* Safari */
-  transition: background-color .2s;
+  -webkit-transition: color .2s; /* Safari */
+  transition: color .2s;
 }
 
 .footer a:hover {
@@ -309,6 +309,28 @@ body {
 
 .footer a:active {
   color: #054203;
+}
+
+.footer a:not(:last-child) {
+  padding-right: 10px;
+  border-right: 1px solid lightgray;
+}
+
+.map-overlay {
+  display: block;
+  font-weight: 600;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  right: 15px;
+  z-index: 1;
+  border-radius: 3px;
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  background-color: white;
+  color: #000;
+  border: 1px solid rgb(216, 216, 216);
 }
 
 /* Marker tweaks */
