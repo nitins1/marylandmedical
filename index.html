@@ -77,8 +77,8 @@
       mapboxgl.accessToken = `${mapAccessToken}`;
 
       var bounds = [
-        [-79.683838, 38.143198], // Southwest coordinates
-        [-74.963322, 40.136891]  // Northeast coordinates
+        [-81.057128, 36.5802466], // Southwest coordinates
+        [-73.60839, 41.4756602]  // Northeast coordinates
       ];
 
       // This adds the map to your page
@@ -91,10 +91,12 @@
         center: [-77.270451, 39.054489],
         // initial zoom
         zoom: 4,
-        //maxBounds: bounds // Sets bounds as max
+        maxBounds: bounds // Sets bounds as max
       });
 
       var overlay = document.getElementById('map-overlay');
+
+      var zoomThreshold = 8;
 
       map.on('load', function() {
         // Add the source to query. In this example we're using
@@ -114,33 +116,48 @@
                 "fill-color": "rgba(0,0,0,0)"
                 //"line-width": "2px"
             },
-            //"filter": ["in", "COUNTY", ""]
+            "filter": ["in", "FIPS", 24001, 24021, 24023, 24043, 24013, 24031, 24033, 24003, 24017, 24009, 24037, 24005, 24510, 24025, 24015, 24029, 24035, 24011, 24041, 24019, 24045, 24039, 24047, 24027]
         }, 'place-city-sm'); // Place polygon under these labels.
 
-        var mdFIPS = 2
         map.addLayer({
             "id": "counties-highlighted",
             "type": "fill",
             "source": "counties",
             "source-layer": "original",
             "paint": {
-                "fill-outline-color": "#484896",
-                "fill-color": "#6e599f",
-                "fill-opacity": 0.75
+                "fill-outline-color": "#0D8108",
+                "fill-color": "#0D8108",
+                "fill-opacity": 0.2
             },
             "filter": ["in", "FIPS", ""]
         }, 'place-city-sm'); // Place polygon under these labels.
 
-        //map.setFilter('counties-highlighted', ["!=", "FIPS", 24]);
+        map.addLayer({
+            "id": "counties-test",
+            "type": "fill",
+            "source": "counties",
+            "source-layer": "original",
+            "paint": {
+                //"fill-outline-color": "#AA7C00",
+                "fill-color": "#EAAB00",
+                "fill-opacity": 0.1
+            },
+            "filter": ["!in", "FIPS", 24001, 24021, 24023, 24043, 24013, 24031, 24033, 24003, 24017, 24009, 24037, 24005, 24510, 24025, 24015, 24029, 24035, 24011, 24041, 24019, 24045, 24039, 24047, 24027]
+        }, 'place-city-sm'); // Place polygon under these labels.
 
         map.on('mousemove', function(e) {
           var features = map.queryRenderedFeatures(e.point, {
               layers: ['counties']
           });
 
+          features.forEach(function(county) {
+            console.log(county.properties)
+          });
+
           // Remove things if no feature was found.
           if (!features.length) {
               overlay.style.visibility = 'hidden';
+              map.setFilter('counties-highlighted', ['in', 'COUNTY', '']);
               return;
           } else {
               overlay.style.visibility = 'visible';
@@ -149,31 +166,30 @@
           // Change the cursor style as a UI indicator.
           map.getCanvas().style.cursor = features.length ? 'pointer' : '';
 
-          // Remove things if no feature was found.
-          if (!features.length) {
-              popup.remove();
-              map.setFilter('counties-highlighted', ['in', 'COUNTY', '']);
-              overlay.style.display = 'none';
-              return;
-          }
-
           // Single out the first found feature on mouseove.
           var feature = features[0];
 
           // Add features that share the same county name to the highlighted layer.
           //map.setFilter('counties-highlighted', ['==', 'FIPS', feature.properties.FIPS ]);
-          map.setFilter('counties-highlighted', [
+
+          if (map.getZoom() < zoomThreshold) {
+            map.setFilter('counties-highlighted', [
                                                   "all",
-                                                  ['==', 'COUNTY', feature.properties.COUNTY],
-                                                  ['==', 'FIPS', feature.properties.FIPS]//,
-                                                  //["!=", "FIPS", 24]
+                                                  ["in", "FIPS", 24001, 24021, 24023, 24043, 24013, 24031, 24033, 24003, 24017, 24009, 24037, 24005, 24510, 24025, 24015, 24029, 24035, 24011, 24041, 24019, 24045, 24039, 24047, 24027],
+                                                  ['==', 'FIPS', feature.properties.FIPS]
                                                 ]);
+          } else {
+            map.setFilter('counties-highlighted', ["in", "FIPS", ""]);
+          }
 
           //Sets the overlay to display the first feature's county name
           overlay.innerHTML = feature.properties.COUNTY;
 
         });
+
       });
+
+
 
       /*
       map.on('load', function() {
