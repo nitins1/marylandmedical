@@ -165,8 +165,8 @@ function loadData() {
 
   //flies to initial center/zoom
   map.flyTo({
-    center: [-76.6413, 39.0458],
-    zoom: 6
+    center: [-77.270451, 39.054489],
+    zoom: 6.5
   });
 
   //runs a JSON request with the JSON file for the selected entity
