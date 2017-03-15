@@ -1,0 +1,83 @@
+/*
+Colors
+------
+
+Green: #0D8108
+Dark green: #085604
+Darker green: #054203
+
+Yellow: #EAAB00
+Dark yellow: #D39A00
+Darker yellow: #AA7C00
+
+Red: #981E32
+Dark red: #5D0E1B
+
+*/
+
+
+body {
+  background-color: rgba(219, 171, 0, 0.3);
+  margin: 0;
+  padding: 20px;
+  font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+}
+
+.container {
+  width: 80%;
+  background-color: #fff;
+  padding: 50px 40px;
+  margin: 0 auto;
+  border: 1px solid rgb(216, 216, 216);
+  border-radius: 10px;
+}
+
+h1 {
+  margin: 0;
+  line-height: 30px;
+  color: #0D8108;
+}
+
+h2 {
+  margin: 0;
+  color: #A0A0A0;
+}
+
+h3 {
+  margin: 0;
+  color: #585858;
+}
+
+h4 {
+  color: #EAAB00;
+}
+
+p {
+  color: #585858;
+  margin-top: 10px;
+}
+
+.stepsTitle {
+  margin: 30px 0 30px;;
+}
+
+.steps h4 {
+  margin: 0;
+
+}
+
+.backButton {
+  display: inline-block;
+  background-color: #0D8108;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  -webkit-transition: background-color .2s; /* Safari */
+  transition: background-color .2s;
+  margin: 0 0 30px;
+}
+
+.backButton:hover {
+  background-color: #085604;
+}

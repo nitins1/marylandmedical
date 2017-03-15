@@ -37,10 +37,11 @@
         <h3>Are you a patient in need of medical marijuana?</h3>
         <a href="#" onclick="removeEmail();return false;loadData();" class="close" id="emailClose">&#10006;</a>
         <p>Sign up to get notified when the <a href="">Patient Registry</a> is open.</p>
-        <form action="">
-          <input class="emailField" type="text" name="firstname" placeholder="Enter your email">
-          <input class="signup button" type="submit" value="Sign Up">
+        <form action="http://thisisnotnormal.createsend.com/t/d/s/xlrhyd/" method="post" id="subForm">
+          <input class="emailField" id="fieldEmail" name="cm-xlrhyd-xlrhyd" type="email" placeholder="Enter your email" required />
+          <button class="signup button" type="submit">Sign Up</button>
         </form>
+
       </div>
 
       <div class='listings flex-item' id='listings'></div>
@@ -96,7 +97,7 @@
 
       var overlay = document.getElementById('map-overlay');
 
-      var zoomThreshold = 8;
+      var zoomThreshold = 7.5;
 
       map.on('load', function() {
         // Add the source to query. In this example we're using
@@ -112,7 +113,7 @@
             "source": "counties",
             "source-layer": "original",
             "paint": {
-                "fill-outline-color": "#A0A0A0",
+                //"fill-outline-color": "#000",
                 "fill-color": "rgba(0,0,0,0)"
                 //"line-width": "2px"
             },
@@ -125,9 +126,9 @@
             "source": "counties",
             "source-layer": "original",
             "paint": {
-                "fill-outline-color": "#0D8108",
+                "fill-outline-color": "#000",
                 "fill-color": "#0D8108",
-                "fill-opacity": 0.2
+                "fill-opacity": 0.4
             },
             "filter": ["in", "FIPS", ""]
         }, 'place-city-sm'); // Place polygon under these labels.
@@ -138,9 +139,9 @@
             "source": "counties",
             "source-layer": "original",
             "paint": {
-                //"fill-outline-color": "#AA7C00",
+                "fill-outline-color": "rgba(0,0,0,0)",
                 "fill-color": "#EAAB00",
-                "fill-opacity": 0.1
+                "fill-opacity": .2
             },
             "filter": ["!in", "FIPS", 24001, 24021, 24023, 24043, 24013, 24031, 24033, 24003, 24017, 24009, 24037, 24005, 24510, 24025, 24015, 24029, 24035, 24011, 24041, 24019, 24045, 24039, 24047, 24027]
         }, 'place-city-sm'); // Place polygon under these labels.
