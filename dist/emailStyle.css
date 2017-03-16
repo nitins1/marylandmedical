@@ -26,10 +26,22 @@ body {
 .container {
   width: 80%;
   background-color: #fff;
-  padding: 50px 40px;
+  padding: 30px 40px;
   margin: 0 auto;
   border: 1px solid rgb(216, 216, 216);
   border-radius: 10px;
+}
+
+p a {
+  text-decoration: none;
+  color: #0D8108;
+  font-weight: 700;
+  -webkit-transition: color .2s; /* Safari */
+  transition: color .2s;
+}
+
+p a:hover {
+  color: #085604;
 }
 
 h1 {
@@ -54,16 +66,19 @@ h4 {
 
 p {
   color: #585858;
-  margin-top: 10px;
+  margin-top: 5px;
+}
+
+.steps {
+  margin-bottom: 20px;
 }
 
 .stepsTitle {
-  margin: 30px 0 30px;;
+  margin: 30px 0 15px;;
 }
 
 .steps h4 {
   margin: 0;
-
 }
 
 .backButton {
@@ -75,7 +90,8 @@ p {
   color: white;
   -webkit-transition: background-color .2s; /* Safari */
   transition: background-color .2s;
-  margin: 0 0 30px;
+  margin: 0 0 20px;
+  font-weight: 500;
 }
 
 .backButton:hover {
