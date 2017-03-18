@@ -429,11 +429,11 @@ body {
 }
 
 .mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
-  border-right-color: #fff;
+  border-right-color: #0D8108;
 }
 
 .mapboxgl-popup-anchor-right .mapboxgl-popup-tip {
-  border-left-color: #fff;
+  border-left-color: #0D8108;
 }
 
 .mapboxgl-popup-anchor-top-left .mapboxgl-popup-tip {
