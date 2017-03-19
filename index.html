@@ -100,6 +100,9 @@
       var zoomThreshold = 7.5;
 
       map.on('load', function() {
+
+        loadData();
+
         // Add the source to query. In this example we're using
         // county polygons uploaded as vector tiles
         map.addSource('counties', {
@@ -200,7 +203,7 @@
 
 
       window.onload = function() {
-        loadData()
+        //loadData()
       };
 
     </script>
