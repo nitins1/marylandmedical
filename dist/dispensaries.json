@@ -23,15 +23,15 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -78.7628355, 39.6349363 ]
+        "coordinates": [ -76.662597, 39.3597852 ]
     },
       "properties": {
         "name": "Dispensary in Baltimore Maryland LLC",
         "phone": "888-446-3420",
-        "address": "308 Virginia Ave",
+        "address": "Ken Oak road",
         "city": "Cumberland",
         "district": 1,
-        "county" : "Alleghany County",
+        "county" : "Baltimore County",
         "postalCode": "21502",
         "facebook": "",
         "website": "http://www.google.com/"
