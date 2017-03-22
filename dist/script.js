@@ -70,7 +70,7 @@ function buildLocationList(data) {
     var details = listing.appendChild(document.createElement('div'));
     details.innerHTML = prop.county;
     if (prop.phone) {
-      details.innerHTML += ' &middot; ' + prop.phone;
+      details.innerHTML += ' <br> ' + prop.phone;
     }
 
     // Add an event listener for the links in the sidebar listing

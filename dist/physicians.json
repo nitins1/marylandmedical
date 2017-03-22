@@ -5,18 +5,234 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -75.5993692, 38.3606736 ]
+        "coordinates": [ -77.0426332, 39.0155915 ]
     },
       "properties": {
-        "name": "Dispensary in Baltimore Maryland LLC",
-        "phone": "888-446-3420",
-        "address": "308 Virginia Ave",
-        "city": "Cumberland",
+        "name": "Hytek Medical",
+        "phone": "1-855-694-9835",
+        "address": "",
+        "city": "Silver Spring",
         "district": 1,
-        "county" : "",
-        "postalCode": "21502",
+        "county" : "Anne Arundel County",
+        "postalCode": "",
+        "facebook": "",
+        "website": "https://hytekmed.com/maryland-medical-marijuana-doctors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.5524179, 38.9877429 ]
+    },
+      "properties": {
+        "name": "Greenway Consultations",
+        "phone": "410-762-8745",
+        "address": "130 Lubrano Drive, suite 110",
+        "city": "Annapolis",
+        "district": 1,
+        "county" : "Anne Arundel County",
+        "postalCode": "21401",
+        "facebook": "",
+        "website": "http://www.greenwayconsults.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.6031866, 39.2870536 ]
+    },
+      "properties": {
+        "name": "Toscana Wellness",
+        "phone": "410-837-2262",
+        "address": "202 Albemarle St",
+        "city": "Baltimore",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21202",
         "facebook": "",
         "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.6022586, 39.2829949 ]
+    },
+      "properties": {
+        "name": "Compassionate Care Consultants",
+        "phone": "443-469-4400",
+        "address": "100 International Dr. Floor 23",
+        "city": "Baltimore",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21202",
+        "facebook": "",
+        "website": "https://www.yelp.com/biz/compassionate-care-consultants-baltimore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.6312676, 39.4491152 ]
+    },
+      "properties": {
+        "name": "Greenway Consultations",
+        "phone": "410-762-8745",
+        "address": "2300 York Road Ste 117",
+        "city": "Timonium",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21093",
+        "facebook": "",
+        "website": "http://www.greenwayconsults.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.6196914, 39.4370508 ]
+    },
+      "properties": {
+        "name": "Baltimore Progressive Compassionate Care",
+        "phone": "410-821-1853",
+        "address": "1407 York Rd Ste 307",
+        "city": "Lutherville",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21093",
+        "facebook": "",
+        "website": "https://baltimorepccare.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.8272638, 39.2777463 ]
+    },
+      "properties": {
+        "name": "Compassionate Care Centers of Maryland",
+        "phone": "443-469-4400",
+        "address": "",
+        "city": "Ellicott City",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "",
+        "facebook": "",
+        "website": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.9958149, 39.5753791 ]
+    },
+      "properties": {
+        "name": "Hytek Medical",
+        "phone": "1-855-694-9835",
+        "address": "",
+        "city": "Westminster",
+        "district": 1,
+        "county" : "Carroll County",
+        "postalCode": "",
+        "facebook": "",
+        "website": "https://hytekmed.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -77.4072257, 39.370746 ]
+    },
+      "properties": {
+        "name": "Compassionate Care Centers of Maryland",
+        "phone": "443-469-4400",
+        "address": "",
+        "city": "Frederick",
+        "district": 1,
+        "county" : "Frederick County",
+        "postalCode": "",
+        "facebook": "",
+        "website": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -77.3668965, 39.4241558 ]
+    },
+      "properties": {
+        "name": "Green Health Docs",
+        "phone": "1-240-356-1000",
+        "address": "",
+        "city": "Frederick",
+        "district": 1,
+        "county" : "Frederick County",
+        "postalCode": "",
+        "facebook": "",
+        "website": "https://greenhealthdocs.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -77.0357199, 38.9961588 ]
+    },
+      "properties": {
+        "name": "Greenway Consultations",
+        "phone": "410-762-8745",
+        "address": "8555 16th Street Ste. 240",
+        "city": "Silver Spring",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "",
+        "facebook": "",
+        "website": "http://www.greenwayconsults.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -77.1053673, 39.0038878 ]
+    },
+      "properties": {
+        "name": "Compassionate Care Centers of Maryland",
+        "phone": "443-469-4400",
+        "address": "",
+        "city": "Bethesda",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "",
+        "facebook": "",
+        "website": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.9700669, 38.9963501 ]
+    },
+      "properties": {
+        "name": "Canna Care Docs",
+        "phone": "410-412-3479",
+        "address": "",
+        "city": "",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "",
+        "facebook": "",
+        "website": "https://cannacaredocs.com/"
       }
     }
   ]
