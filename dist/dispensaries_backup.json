@@ -1,0 +1,1841 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Allegany Medical Marijuana Dispensary",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Allegany, Garrett & Washington Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "The Apothecary LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Allegany, Garrett & Washington Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Blu Pharms LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel & Prince George's Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "MaryMed LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel & Prince George's Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Pure Hana Synergy LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel & Prince George's Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Advanced Alternative Therapies LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Evolution Wellness LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Kind Therapeutics USA LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Maryland Natural Treatment Solutions LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Maryland Physician Partners LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.4908835, 38.9781682 ]
+    },
+      "properties": {
+        "name": "Alternative Medicine Maryland LLC",
+        "phone": "716-580-7208",
+        "address": "14 State Circle",
+        "city": "Annapolis",
+        "district": 1,
+        "county" : "Anne Arundel County",
+        "postalCode": "21401",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "GPD LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Durjaya LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "MGTM LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Anne Arundel County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Chesapeake Integrated Health Institute LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "WadeWomen LLC-Dr. Dot’s",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "H&G Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Blair Wellness Center LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Medical Products and Services Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "CannaMD LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Hallaway LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Doctors Orders Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "GreenLabs Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Pure Life Medical Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Charm City Relief Partners LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City & Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Mission Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore City & Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Charm City Medicus LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "GreenMart of Maryland",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Blue Ridge Wellness LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "LMS Wellness BLLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "MMRC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "PalliaTech Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Cannavations MD LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Chesacanna Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Temescal Wellness of Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "AGG Wellness LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Curio Dispensary BC LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "CWS LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Chesapeake Health Sciences",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County & Harford County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Meshow LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County & Harford County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "AmediCanna Dispensary LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County & Howard County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Gina Dubbe",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Baltimore County & Howard County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "G&J Pharmaceuticals LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Calvert & St. Mary's Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Southern Maryland Relief LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Calvert & St. Mary's Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "MCNA Wellness LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Calvert, Charles & Prince George's Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Three Creeks Dispensary",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Calvert, Charles & Prince George's Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Hippocratic Growth LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Caroline, Cecil, Kent & Queen Anne's Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "PharmKent LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Caroline, Cecil, Kent & Queen Anne's Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Peninsula Alternative Health LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Caroline, Dorchester, Talbot & Wicomico Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Tilstar LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Caroline, Dorchester, Talbot & Wicomico Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Euphoria Wellness Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Carroll & Frederick Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "K&R Holdings Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Carroll & Frederick Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Farmalogics Health & Wellness LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Carroll & Howard Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Trilogy Wellness of Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Carroll & Howard Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "DLD Enterprises Inc",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Carroll County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "MyBond LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Carroll County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Four Green Fields LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Cecil & Harford Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Nature Care & Wellness LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Cecil & Harford Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Chesapeake Apothecary",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Charles County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Maryland Earthworks Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Charles County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Bloomworks Wellness LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Frederick County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Wellness Institute of Maryland",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Frederick County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Blue Mountain LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Harford County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Revolution Maryland Retail LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Harford County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Freestate Partners LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Howard County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Freestate Wellness LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Howard County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Maryland Wellness Access LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Howard County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "B1 Earthgroup Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Herbiculture Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Cannabus LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Mikran LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Budding Rose LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Chesapeake Alternatives LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Harvest of Maryland",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "HMS Health LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Maryland Compassionate Care & Wellness LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Peake ReLeaf LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Sugarloaf Enterprises",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Columbia Care MD LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Holistic Industries LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "PharmaCann LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Maryland Alternative Relief Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Premium Medicine of Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "GTI Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Maryland Medical Cannabis Co. LLC (M2C2 HerbaFi)",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "MaryLeaf LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "MI Dispensary",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Bethesda Biomedical Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Time for Healing LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Our Community Wellness & Compassionate Care Center Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "The SENTEL Group LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Jenny’s of Maryland I LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "LinLar LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Compassionate Herbal Alternatives Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Metropolitan Medicinals LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "AltPharm LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Jova Wellness Center",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "CannaPharmacy Maryland LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Town Center Wellness LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "OC Botanicals LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Somerset, Wicomico & Worcester Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Positive Energy LLC",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Somerset, Wicomico & Worcester Counties",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -78.7628355, 39.6349363 ]
+    },
+      "properties": {
+        "name": "Maryland Health & Wellness Inc.",
+        "phone": "888-446-3420",
+        "address": "308 Virginia Ave",
+        "city": "Cumberland",
+        "district": 1,
+        "county" : "Washington County",
+        "postalCode": "21502",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    }
+  ]
+}

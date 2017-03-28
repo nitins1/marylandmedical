@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Pharmaculture Corporation",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Baltimore",
+        "district": 1,
+        "county" : "Alleghany County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Temescal Wellness of MD",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Baltimore City",
+        "district": 1,
+        "county" : "Baltimore City",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Curio Manufacturing LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Baltimore",
+        "district": 1,
+        "county" : "Baltimore County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Maryland Compassionate Care and Wellness LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Baltimore",
+        "district": 1,
+        "county" : "Carroll County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "FGM Processing LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Baltimore",
+        "district": 1,
+        "county" : "Charles County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Doctors Orders Maryland LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Baltimore",
+        "district": 1,
+        "county" : "Dorchester County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "MaryMed LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Dorchester County",
+        "district": 1,
+        "county" : "Dorchester County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Pro Green Medical LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Frederck County",
+        "district": 1,
+        "county" : "Frederick County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Rosebud Organics LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Frederick County",
+        "district": 1,
+        "county" : "Montgomery County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Holistic Industries LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Garrett County",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Seven Points Agro-Therapeutics LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Howard County",
+        "district": 1,
+        "county" : "Prince George's County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Chesapeake Alternatives LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Prince George's County",
+        "district": 1,
+        "county" : "Queen Anne's County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Kind Therapeutics USA LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Washington County",
+        "district": 1,
+        "county" : "Washington County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "AFS Maryland LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Washington County",
+        "district": 1,
+        "county" : "Wicomico County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.733652, 39.464766 ]
+    },
+      "properties": {
+        "name": "Blair Wellness Center LLC",
+        "phone": "888-234-5678",
+        "address": "123 Reisterstown road",
+        "city": "Worcester County",
+        "district": 1,
+        "county" : "Worcester County",
+        "postalCode": "21209",
+        "facebook": "http://www.youtube.com/",
+        "website": "http://www.google.com/"
+      }
+    }
+  ]
+}
