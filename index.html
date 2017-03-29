@@ -196,21 +196,15 @@
 
       });
 
-
+      map.on('style.load', function() {
+        loadData();
+      });
 
       /*
-      map.on('load', function() {
-        loadData()
-      });
-      */
-
-
       window.onload = function() {
         loadData();
       };
-
-
-
+      */
 
     </script>
   </body>
