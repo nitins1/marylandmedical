@@ -1,6 +1,23 @@
 {
   "type": "FeatureCollection",
   "features": [
-    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -76.778340, 39.4196848 ]
+    },
+      "properties": {
+        "name": "Processor #1",
+        "phone": "123-456-7890",
+        "address": "123 Reisterstown road",
+        "city": "Baltimore",
+        "district": 1,
+        "county" : "Baltimore County ",
+        "postalCode": "21209",
+        "facebook": "",
+        "website": "http://www.google.com/"
+      }
+    }
   ]
 }
