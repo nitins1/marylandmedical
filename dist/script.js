@@ -5,7 +5,8 @@ var toggleableLayerIds = [ 'dispensaries', 'growers', 'processors', 'physicians'
 function flyToStore(currentEntity) {
   map.flyTo({
     center: currentEntity.geometry.coordinates,
-    zoom: 15
+    zoom: 15,
+    speed: 1.5
   });
 }
 
@@ -166,7 +167,8 @@ function loadData() {
   //flies to initial center/zoom
   map.flyTo({
     center: [-77.270451, 39.054489],
-    zoom: 6.5
+    zoom: 6.5,
+    speed: 1.5
   });
 
   //runs a JSON request with the JSON file for the selected entity
