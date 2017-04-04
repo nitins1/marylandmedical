@@ -5,18 +5,18 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -76.733652, 39.464766 ]
+        "coordinates": [ -78.7625185, 39.6528654 ]
     },
       "properties": {
         "name": "Pharmaculture Corporation",
-        "phone": "888-234-5678",
-        "address": "123 Reisterstown road",
-        "city": "Baltimore",
+        "phone": "",
+        "address": "",
+        "city": "",
         "district": 1,
         "county" : "Alleghany County",
-        "postalCode": "21209",
-        "facebook": "http://www.youtube.com/",
-        "website": "http://www.google.com/"
+        "postalCode": "",
+        "facebook": "",
+        "website": ""
       }
     },
     {

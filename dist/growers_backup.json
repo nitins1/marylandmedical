@@ -5,18 +5,18 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -76.5488232, 38.9530109 ]
+        "coordinates": [ -76.5911865, 38.8418469 ]
     },
       "properties": {
         "name": "Forward Gro LLC",
-        "phone": "888-234-5678",
-        "address": "123 Reisterstown road",
-        "city": "Baltimore",
+        "phone": "866-393-4763",
+        "address": "",
+        "city": "",
         "district": 1,
         "county" : "Anne Arundel County",
-        "postalCode": "21209",
-        "facebook": "http://www.youtube.com/",
-        "website": "http://www.google.com/"
+        "postalCode": "",
+        "facebook": "",
+        "website": "http://forwardgro.com/"
       }
     },
     {
