@@ -32,7 +32,7 @@ body {
   border-radius: 10px;
 }
 
-p a {
+p a, h3 a {
   text-decoration: none;
   color: #0D8108;
   font-weight: 700;
@@ -40,7 +40,7 @@ p a {
   transition: color .2s;
 }
 
-p a:hover {
+p a:hover, h3 a:hover {
   color: #085604;
 }
 

@@ -166,14 +166,14 @@ body {
   margin: 0;
 }
 
-.email p a {
+.email p a, .email h3 a {
   color: #981E32;
   text-decoration: none;
   -webkit-transition: background-color .2s; /* Safari */
   transition: background-color .2s;
 }
 
-.email p a:hover {
+.email p a:hover, .email h3 a:hover {
   color: #5D0E1B;
 }
 
