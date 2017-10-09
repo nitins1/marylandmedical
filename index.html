@@ -61,6 +61,7 @@
 
     <script>
 
+      //
       function removeEmail() {
         document.getElementById("email").remove();
       };
@@ -74,6 +75,7 @@
       ga('create', 'UA-93507854-1', 'auto');
       ga('send', 'pageview');
 
+      //Mapbox
       var mapAccessToken = "pk.eyJ1Ijoibml0aW45MyIsImEiOiJjaXp3NjljNHQwMWoyMzNyMjd4NGNoYzZ4In0.Q8qaCHVZJQHkx4PJAX66DQ";
       var styleURL = "mapbox://styles/nitin93/cizwwjad600362ss1tikopvp5";
 
@@ -157,7 +159,7 @@
           });
 
           features.forEach(function(county) {
-            console.log(county.properties)
+            // console.log(county.properties)
           });
 
           // Remove things if no feature was found.
